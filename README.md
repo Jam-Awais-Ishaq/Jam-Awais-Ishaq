@@ -37,7 +37,7 @@ Here's a quick overview of the tools and technologies I work with:
 
 ## 📈 GitHub Stats
 
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwaisIshaq&show_icons=true&theme=radical)
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical)
 
 ---
 
