@@ -46,3 +46,11 @@ Here's a quick overview of the tools and technologies I work with:
 - 🔗 **LinkedIn**: [linkedin.com/in/muhammad-owais-ishaq-054102374/](https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/)  
 - 🌐 **Portfolio**: [awaisishaqportfolio.netlify.app](https://awaisishaqportfolios.netlify.app/)  
 - 📧 **Email**: [muhammadowaisishaqofficials@gmail.com](mailto:muhammadowaisishaqofficials@gmail.com)  
+
+## 📊 GitHub Stats
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical)
+
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical)
