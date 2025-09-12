@@ -46,6 +46,7 @@ Here's a quick overview of the tools and technologies I work with:
 
 ## 📫 Let's Connect!
 
+
 - 🔗 **LinkedIn**: [linkedin.com/in/muhammad-owais-ishaq-054102374/](https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/)  
 - 🌐 **Portfolio**: [awaisishaqportfolio.netlify.app](https://awaisishaqportfolios.netlify.app/)  
 - 📧 **Email**: [muhammadowaisishaqofficials@gmail.com](mailto:muhammadowaisishaqofficials@gmail.com)  
