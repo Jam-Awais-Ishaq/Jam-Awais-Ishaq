@@ -9,8 +9,8 @@ I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on build
 Here's a quick overview of the tools and technologies I work with:
 
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
-- 🛠️ **Backend**: Node.js, Express.js, .NET Framework  
-- 🗃️ **Database**: MongoDB, SQL  
+- 🛠️ **Backend**: Node.js, Express.js,
+- 🗃️ **Database**: MongoDB, PSSQL
 - 🔐 **Authentication**: JWT Auth  
 - ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client  
 - 📦 **Package Managers**: NPM
