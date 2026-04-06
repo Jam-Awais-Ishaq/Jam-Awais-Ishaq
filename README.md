@@ -10,7 +10,7 @@ Here's a quick overview of the tools and technologies I work with:
 
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
 - 🛠️ **Backend**: Node.js, Express.js,
-- 🗃️ **Database**: MongoDB, PSSQL
+- 🗃️ **Database**: MongoDB, PSQL
 - 🔐 **Authentication**: JWT Auth  
 - ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client  
 - 📦 **Package Managers**: NPM
