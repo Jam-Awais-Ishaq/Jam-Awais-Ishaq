@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Muhammad+Awais+Ishaq;MERN+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer"/>
@@ -112,4 +111,3 @@ Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern,
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A11CB,100:2575FC&section=footer"/>
-
