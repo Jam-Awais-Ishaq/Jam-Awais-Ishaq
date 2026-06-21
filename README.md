@@ -7,7 +7,8 @@
 ### 💫 Software Engineer | MERN Stack Developer | Full Stack Web Developer
 
 <p>
-🇵🇰 Pakistan <br>
+🇵🇰 Pakistan
+<br><br>
 Building clean, responsive & scalable web applications 🚀
 </p>
 
@@ -17,7 +18,9 @@ Building clean, responsive & scalable web applications 🚀
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on building clean, responsive, and scalable web applications. I love turning ideas into reality using modern web technologies. 🚀
+I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on building clean, responsive, and scalable web applications.
+
+I love turning ideas into reality using modern web technologies and creating user-friendly digital experiences. 🚀
 
 ---
 
@@ -25,16 +28,16 @@ I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on build
 
 Here's a quick overview of the tools and technologies I work with:
 
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-- 🛠️ **Backend**: Node.js, Express.js
-- 🗃️ **Database**: MongoDB, PostgreSQL (PSQL)
-- 🔐 **Authentication**: JWT Auth
-- ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client
-- 📦 **Package Managers**: NPM
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- 🛠️ **Backend:** Node.js, Express.js
+- 🗃️ **Database:** MongoDB, PostgreSQL (PSQL)
+- 🔐 **Authentication:** JWT Auth
+- ⚙️ **Tools & Platforms:** Git, GitHub, Netlify, Vercel, Postman, Thunder Client
+- 📦 **Package Managers:** NPM
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 
@@ -73,16 +76,22 @@ Here's a quick overview of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical)
+<p align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical"/>
+
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
+
 - 🌐 Portfolio: https://awaisishaqportfolios.netlify.app/
+
 - 📧 Email: muhammadowaisishaqofficials@gmail.com
