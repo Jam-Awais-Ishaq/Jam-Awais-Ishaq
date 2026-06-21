@@ -1,13 +1,13 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Awais Ishaq
+# 👋 Hi, I'm Muhammad Awais Ishaq
 
 ### 💫 Software Engineer | MERN Stack Developer | Full Stack Web Developer
 
-🇵🇰 Pakistan
-
-Building clean, responsive, and scalable web applications 🚀
+<p>
+🇵🇰 Pakistan <br>
+Building clean, responsive & scalable web applications 🚀
+</p>
 
 </div>
 
@@ -25,7 +25,7 @@ Here's a quick overview of the tools and technologies I work with:
 
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
 - 🛠️ **Backend**: Node.js, Express.js
-- 🗃️ **Database**: MongoDB, PSQL
+- 🗃️ **Database**: MongoDB, PostgreSQL (PSQL)
 - 🔐 **Authentication**: JWT Auth
 - ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client
 - 📦 **Package Managers**: NPM
@@ -71,22 +71,16 @@ Here's a quick overview of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical"/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical"/>
-
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
-
-- 🌐 **Portfolio**: https://awaisishaqportfolios.netlify.app/
-
-- 📧 **Email**: muhammadowaisishaqofficials@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
+- 🌐 Portfolio: https://awaisishaqportfolios.netlify.app/
+- 📧 Email: muhammadowaisishaqofficials@gmail.com  
