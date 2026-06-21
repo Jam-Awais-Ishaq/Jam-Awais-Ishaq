@@ -1,16 +1,13 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Awais Ishaq
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"/>
+# 👋 Hi, I'm Awais Ishaq
 
 ### 💫 Software Engineer | MERN Stack Developer | Full Stack Web Developer
 
-<p>
 🇵🇰 Pakistan
-<br><br>
-Building clean, responsive & scalable web applications 🚀
-</p>
+
+Building clean, responsive, and scalable web applications 🚀
 
 </div>
 
@@ -18,9 +15,7 @@ Building clean, responsive & scalable web applications 🚀
 
 ## 👨‍💻 About Me
 
-I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on building clean, responsive, and scalable web applications.
-
-I love turning ideas into reality using modern web technologies and creating user-friendly digital experiences. 🚀
+I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on building clean, responsive, and scalable web applications. I love turning ideas into reality using modern web technologies. 🚀
 
 ---
 
@@ -28,16 +23,16 @@ I love turning ideas into reality using modern web technologies and creating use
 
 Here's a quick overview of the tools and technologies I work with:
 
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-- 🛠️ **Backend:** Node.js, Express.js
-- 🗃️ **Database:** MongoDB, PostgreSQL (PSQL)
-- 🔐 **Authentication:** JWT Auth
-- ⚙️ **Tools & Platforms:** Git, GitHub, Netlify, Vercel, Postman, Thunder Client
-- 📦 **Package Managers:** NPM
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- 🛠️ **Backend**: Node.js, Express.js
+- 🗃️ **Database**: MongoDB, PSQL
+- 🔐 **Authentication**: JWT Auth
+- ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client
+- 📦 **Package Managers**: NPM
 
 ---
 
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -78,11 +73,11 @@ Here's a quick overview of the tools and technologies I work with:
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical"/>
 
 </p>
 
@@ -90,8 +85,8 @@ Here's a quick overview of the tools and technologies I work with:
 
 ## 📫 Let's Connect!
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
 
-- 🌐 Portfolio: https://awaisishaqportfolios.netlify.app/
+- 🌐 **Portfolio**: https://awaisishaqportfolios.netlify.app/
 
-- 📧 Email: muhammadowaisishaqofficials@gmail.com
+- 📧 **Email**: muhammadowaisishaqofficials@gmail.com
