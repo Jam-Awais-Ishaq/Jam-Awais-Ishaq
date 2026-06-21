@@ -1,95 +1,88 @@
-# 👋 Hi, I'm Muhammad Awais Ishaq
-
 <div align="center">
 
-### 🚀 MERN Stack Developer | Software Engineer | Full Stack Web Developer
+# 👋 Hi, I'm Muhammad Awais Ishaq
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"/>
+
+### 💫 Software Engineer | MERN Stack Developer | Full Stack Web Developer
 
 <p>
-Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern, scalable, responsive, and high-performance web applications.
+🇵🇰 Pakistan <br>
+Building clean, responsive & scalable web applications 🚀
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+Developer;Full+Stack+Engineer;Building+Modern+Web+Applications" />
-
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Software Engineer from Pakistan 🇵🇰, with a focus on building clean, responsive, and scalable web applications. I love turning ideas into reality using modern web technologies. 🚀
+
+---
+
+## 💻 My Tech Stack
+
+Here's a quick overview of the tools and technologies I work with:
+
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- 🛠️ **Backend**: Node.js, Express.js
+- 🗃️ **Database**: MongoDB, PostgreSQL (PSQL)
+- 🔐 **Authentication**: JWT Auth
+- ⚙️ **Tools & Platforms**: Git, GitHub, Netlify, Vercel, Postman, Thunder Client
+- 📦 **Package Managers**: NPM
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
 
-### 🌐 Frontend
+<img src="https://github.com/user-attachments/assets/49fff2ef-f2ca-40ec-b261-20357b98f41b" width="60"/>
+<img src="https://github.com/user-attachments/assets/67a0e1b3-22e2-49d3-b1d3-5f5e4e1df6ec" width="60"/>
+<img src="https://github.com/user-attachments/assets/8f8c6177-b366-4f04-8213-8e17844b4b4c" width="60"/>
+<img src="https://github.com/user-attachments/assets/512c353a-5055-490b-b366-617abc5afcce" width="60"/>
+<img src="https://github.com/user-attachments/assets/7f97b072-204b-46a6-bc1b-68daf4674b15" width="60"/>
+<img src="https://github.com/user-attachments/assets/82ef80bc-7711-4740-8d34-69d8a4dfafd3" width="60"/>
+<img src="https://github.com/user-attachments/assets/ffd27119-6abb-4793-a8fc-072ac2b2c2f6" width="60"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+<img src="https://github.com/user-attachments/assets/18938cf1-010b-42b9-b35f-dded967b916f" width="60"/>
+<img src="https://github.com/user-attachments/assets/66f86f4c-d576-4bad-9a50-82e7d19c27ac" width="60"/>
+<img src="https://github.com/user-attachments/assets/511ece4d-7376-4e0a-b8dc-1ef0e5836bd0" width="60"/>
+<img src="https://github.com/user-attachments/assets/10277121-a4ad-470a-bf4c-bbee1282e4bd" width="60"/>
 
-### ⚙️ Backend
+<img src="https://github.com/user-attachments/assets/481c87fb-db57-4e27-8382-83686c092dbd" width="60"/>
+<img src="https://github.com/user-attachments/assets/c17327ed-10c3-48f3-a73a-cae3e306c9b1" width="60"/>
+<img src="https://github.com/user-attachments/assets/357b9528-8694-4643-9533-fffbb9ba7d47" width="60"/>
+<img src="https://github.com/user-attachments/assets/c303ad61-3061-433a-a75c-69483079b52b" width="60"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://github.com/user-attachments/assets/14d57351-cf42-4f77-852b-59b82cbbc823" width="60"/>
+<img src="https://github.com/user-attachments/assets/17f8df09-26be-4f5a-a524-bdbdf69a3110" width="60"/>
+<img src="https://github.com/user-attachments/assets/da0050db-e715-4efa-888d-2399a5b41806" width="60"/>
+<img src="https://github.com/user-attachments/assets/a9dd0800-f5e9-4461-8b2b-cff310b77924" width="60"/>
 
-### 🗄️ Database
+<img src="https://github.com/user-attachments/assets/8ef2c60f-5fe6-4dbc-8225-2f013126e7aa" width="60"/>
+<img src="https://github.com/user-attachments/assets/1d49207d-00b5-46c9-b1a3-36aa0a5763b2" width="60"/>
+<img src="https://github.com/user-attachments/assets/afa4c580-7403-4401-8b2c-40536c3e8bc9" width="60"/>
+<img src="https://github.com/user-attachments/assets/1dd3a008-b344-453c-84d2-a0ca04d7c533" width="60"/>
+<img src="https://github.com/user-attachments/assets/d1b85e09-722d-462c-8f5c-f9761572035b" width="60"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase" />
-
-### 🔐 Authentication & API
-
-<img src="https://skillicons.dev/icons?i=jwt,postman" />
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,npm,vscode" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=tokyonight&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
-## 🏆 Contribution Graph
+## 📊 GitHub Stats
 
-<div align="center">
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jam-Awais-Ishaq&show_icons=true&theme=radical)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jam-Awais-Ishaq&theme=tokyonight" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jam-Awais-Ishaq&layout=compact&theme=radical)
 
-</div>
-
----
-
-## 🌍 Connect With Me
-
-<div align="center">
-
-🔗 LinkedIn
-
-https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
-
-🌐 Portfolio
-
-https://awaisishaqportfolios.netlify.app/
-
-📧 Email
-
-muhammadowaisishaqofficials@gmail.com
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jam-Awais-Ishaq&theme=radical)
 
 ---
 
-<div align="center">
+## 📫 Let's Connect!
 
-### 🚀 "Turning ideas into scalable digital products."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:8b5cf6&section=footer"/>
-
-</div>
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/
+- 🌐 Portfolio: https://awaisishaqportfolios.netlify.app/
+- 📧 Email: muhammadowaisishaqofficials@gmail.com
