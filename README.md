@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Awais Ishaq
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Muhammad+Awais+Ishaq;MERN+Stack+Developer;Software+Engineer;Full+Stack+Web+Developer"/>
 
 ### MERN Stack Developer | Software Engineer | Full Stack Web Developer
 
@@ -9,19 +9,19 @@
 Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern, scalable and responsive web applications.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Node.js+Developer;MERN+Stack+Developer;React.js+Developer;Building+Modern+Web+Applications" />
+<img src="https://img.shields.io/badge/Node.js_Developer-0A192F?style=for-the-badge&logo=node.js&logoColor=3ECF8E"/>
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <table align="center">
 
 <tr>
 
-<td align="center" width="300">
+<td align="center">
 
 ### 🖥️ Frontend
 
@@ -29,7 +29,7 @@ Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern,
 
 </td>
 
-<td align="center" width="250">
+<td align="center">
 
 ### ⚙️ Backend
 
@@ -37,7 +37,7 @@ Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern,
 
 </td>
 
-<td align="center" width="250">
+<td align="center">
 
 ### 🗄️ Database
 
@@ -65,17 +65,13 @@ Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern,
 
 ### 🔐 Authentication
 
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-<br>
-
-<b>JWT Auth</b>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -95,34 +91,25 @@ Passionate Software Engineer from Pakistan 🇵🇰, focused on building modern,
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-owais-ishaq-054102374/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="https://awaisishaqportfolios.netlify.app/">
-
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
 </a>
 
 <a href="mailto:muhammadowaisishaqofficials@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6A11CB,100:2575FC&section=footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7F00FF,100:00C2FF&section=footer"/>
-
-</div>
